@@ -1,4 +1,4 @@
-# cadastro-jdbc-maven
+<h1 align="center">Cadastro com JDBC e Maven</h1>
 
 ### Finalidade do projeto:
 Criar conexão com banco de dados MySQL utilizando JDBC e maven. Criar CRUD de cadastro de pessoas. A principal finalidade do projeto é entender como criar 
@@ -13,4 +13,7 @@ $ git clone <https://github.com/cleosilva/cadastro-jdbc-maven.git>
 #### Para executar o projeto, será necessário instalar os seguintes programas
 - [JDK 17](https://www.oracle.com/java/technologies/downloads/)
 - [Maven 3.8.6](https://maven.apache.org/download.cgi)
-- [Intellij](https://www.jetbrains.com/pt-br/idea/download/#section=windows) 
+- [Intellij](https://www.jetbrains.com/pt-br/idea/download/#section=windows)
+- Banco de Dados MySQL
+
+A classe ConnectionFactoryTest no package teste possui as inserções no banco de dados para teste.
